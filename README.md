@@ -15,6 +15,7 @@ To support traffic safety policy-making and public awareness through clear visua
 
 📊 Dashboard Features
 ✅ KPI Highlights:
+
 Total Casualties (CY): 195.7K (↓11.9% from PY)
 
 Total Accidents (CY): 144.4K (↓11.7%)
@@ -26,6 +27,7 @@ Serious Casualties: 27.0K (↓16.2%)
 Slight Casualties: 165.8K (↓10.6%)
 
 🚘 Vehicle-Type Casualty Breakdown:
+
 Cars: 155.8K casualties (highest)
 
 Vans: 15.9K
@@ -35,6 +37,7 @@ Bikes: 15.6K
 Buses: 6.5K
 
 📍 Location-Based Insights:
+
 Urban Areas: 61.95% of casualties
 
 Rural Areas: 38.05%
@@ -42,6 +45,7 @@ Rural Areas: 38.05%
 Most Common Road Types: Single Carriageways (145K), followed by Dual Carriageways (32K)
 
 🌤️ Environmental Conditions:
+
 Lighting: 73.84% of accidents occurred during Daytime, 26.16% during Night
 
 Road Surface: Mostly Dry followed by Wet/Damp
@@ -49,11 +53,13 @@ Road Surface: Mostly Dry followed by Wet/Damp
 Junction Types: Majority at T or staggered junctions
 
 📅 Month-wise Trends:
+
 A consistent monthly decline in accidents and casualties is visible when comparing CY to PY.
 
 Useful for identifying high-risk months or seasonal patterns.
 
 📈 Use Cases
+
 Traffic safety planning by government authorities
 
 Insurance risk assessment and planning
