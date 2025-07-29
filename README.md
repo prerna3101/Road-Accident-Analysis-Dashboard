@@ -17,6 +17,7 @@ To identify contributing factors such as time of day, road conditions, and vehic
 To support traffic safety policy-making and public awareness through clear visual representation.
 
 📊 Dashboard Features
+
 ✅ KPI Highlights:
 
 Total Casualties (CY): 195.7K (↓11.9% from PY)
